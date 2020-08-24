@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Harry	
+2. Email: Harrywijaya002@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun Gitlab: harrywijaya002
+5. Akun Telegram: Harry (085959687922)
