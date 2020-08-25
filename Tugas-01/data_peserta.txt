@@ -1,4 +1,4 @@
-1Data Peserta Sanbercode Bootcamp ReactJS123
+Data Peserta Sanbercode Bootcamp ReactJS
 1. Nama: Harry	
 2. Email: Harrywijaya002@gmail.com
 3. Sistem Operasi yang digunakan: Windows 10
