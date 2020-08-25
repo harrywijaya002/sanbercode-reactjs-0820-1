@@ -3,7 +3,6 @@ body {
 }
 
 nav {
-  z-index: 100;
   top: 0;
   padding-right: 20px;
   position: fixed;
@@ -87,7 +86,7 @@ footer h5 {
 
 .submit {
   margin-bottom: 20px;
-  margin-left: 450px;
+  margin-left: 380px;
 }
 
 .data {
