@@ -15,7 +15,7 @@ function kalikan() {
 var num1 = 12;
 var num2 = 4;
 
-var hasilKali = kalikan(num1, num2);
+var hasilKali = kalikan();
 console.log(hasilKali);
 
 // Soal 3
@@ -34,7 +34,7 @@ var age = 30;
 var address = "Jalan belum jadi";
 var hobby = "Gaming";
 
-var perkenalan = introduce(name, age, address, hobby);
+var perkenalan = introduce();
 console.log(perkenalan);
 
 // Soal 4
@@ -47,10 +47,10 @@ var daftarPesertaObject = {
   tahunLahir: arrayDaftarPeserta[3],
 };
 
-console.log(daftarPesertaObject.nama);
-console.log(daftarPesertaObject.jenisKelamin);
-console.log(daftarPesertaObject.hobi);
-console.log(daftarPesertaObject.tahunLahir);
+console.log("Nama : " + daftarPesertaObject.nama);
+console.log("Jenis Kelamin : " + daftarPesertaObject.jenisKelamin);
+console.log("Hobi : " + daftarPesertaObject.hobi);
+console.log("Tahun lahir : " + daftarPesertaObject.tahunLahir);
 
 // Soal 5
 
